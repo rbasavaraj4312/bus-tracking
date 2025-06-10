@@ -1,5 +1,4 @@
 # 🚌 Live Bus Tracking System 
-A real-time bus tracking system designed to improve public transport efficiency by providing accurate GPS-based
 A real-time bus tracking system designed to improve public transport efficiency by providing accurate GPS-based location updates. Built using the **MERN stack** and **LeafletJS**, this system features separate modules for **admins**, **drivers**, and **users** to manage routes and track buses in real time.
 
 This project also served as a personal learning experience where I explored:
